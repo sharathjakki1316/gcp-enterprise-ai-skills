@@ -52,12 +52,7 @@ For fellow learners, I have included links to the official Google Cloud Skills B
 
 ## 🤖 Generative AI & Autonomous Agents
 
-### 7. [Create Your First Gemini Enterprise Application](https://www.skills.google/course_templates/1586)
-**Focus:** Vertex AI, Multimodal Generative AI, and Python SDKs.
-* **Technical Overview:** Built a modern GenAI application inside Jupyter Notebooks using the Vertex AI Python SDK. I worked directly with the `gemini-1.5-pro` and `gemini-flash` models to process multimodal inputs (analyzing video files from Cloud Storage) and implemented Function Calling (Tools) to allow the LLM to request live weather data.
-* **Enterprise Value:** Moving beyond basic chat prompts, this demonstrates the ability to programmatically embed Google's most powerful reasoning engines directly into enterprise software and Python backends.
-
-### 8. [Explore Generative AI in Agent Platform](https://www.skills.google/course_templates/959)
+### 7. [Explore Generative AI in Agent Platform](https://www.skills.google/course_templates/959)
 **Focus:** AI Agents, Reasoning Engines, and Tool Integration.
 * **Technical Overview:** Transitioned from standard LLM generation to autonomous AI Agents. Explored how to provide an AI with a set of tools (like APIs or databases) and allow it to independently reason, plan steps, and execute actions to solve complex, multi-step user queries.
 * **Enterprise Value:** AI Agents represent the future of enterprise automation. Building agents allows businesses to automate complex workflows like dynamic research, automated ticket resolution, and intelligent data retrieval without hardcoding every single step.
